@@ -1,6 +1,6 @@
 # Spectacles Logger
 
-Anyone learning to code needs a way to read logs. But on Snap's Spectacles (2021), that's not an option out of the box. Furthermore, the [resource to support logging](https://lensstudio.snapchat.com/guides/scripting/debugging/) does not immediately work.
+The bare minimum for debugging code is having logs. On Snap's Spectacles (2021), that is not built in. Furthermore, the [resource to support logging](https://lensstudio.snapchat.com/guides/scripting/debugging/) does not work out of the box.
 
 The problem with Snap's official logger is that the field of view is incorrect and the depth is not set an appropriate distance. The prefab in this repository, `TextLogger.oprfb`, should be a drag and drop solution 😉
 
